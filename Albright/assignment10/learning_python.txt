@@ -1,0 +1,7 @@
+In Python you can:
+- make Lists
+- make tuples
+- make classes
+- make dictionaries
+- make loops
+- write if statements

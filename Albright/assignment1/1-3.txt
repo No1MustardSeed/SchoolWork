@@ -1,0 +1,8 @@
+
+1.3
+
+I would build a system that would track my hidden rank in Valorant.
+
+Another cool program would be one that I can use to control robotics in fashion. For example
+I could build a little "robot" as the support of a garment and then use programming to control
+the flow.
