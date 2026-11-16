@@ -19,4 +19,4 @@ I am currently pursuing the MSSP + DA path at the University of Pennsylvania. My
 ### Additional Coursework
 Selected projects from undergraduate and graduate coursework involving programming, statistical analysis, data management, and visualization.
 
-More projects will be added as I continue developing my technical skills. Unfortunately, some work in R, ARCGIS, BlueSky, Excel, and DBeaver were lost, therefore this does not showcase my full abilities. 
+More projects will be added as I continue developing my technical skills. Unfortunately, some work in R, ARCGIS, BlueSky, Excel, and DBeaver were lost.
