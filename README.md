@@ -1,5 +1,7 @@
 # Data Analytics & Programming Portfolio
 
+The Highlights folder is the best showcase of my abilities from my previosu works.
+
 This repository contains examples of my academic work in data analytics, programming, and statistical analysis.
 
 I am currently pursuing the MSSP + DA path at the University of Pennsylvania. My work combines statistical methods, programming, and applied research, including projects examining player performance and gameplay patterns in VALORANT.
