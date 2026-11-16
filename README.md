@@ -1,6 +1,6 @@
 # Data Analytics & Programming Portfolio
 
-The Highlights folder is the best showcase of my abilities from my previosu works.
+The Highlights folder is the most cohesive summary of my abilities so far.
 
 This repository contains examples of my academic work in data analytics, programming, and statistical analysis.
 
